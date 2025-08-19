@@ -8,7 +8,7 @@ bgImage: /assets/image/islandday.png
 bgImageDark: /assets/image/islandnight.png
 bgImageStyle:
   background-attachment: fixed
-welcome: 
+welcome: test
 name: 芋茶園 - YuChaYuan
 titles:
   - 一個還不錯的Wynncraft公會
