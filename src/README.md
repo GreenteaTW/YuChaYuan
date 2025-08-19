@@ -8,18 +8,16 @@ bgImageDark: /assets/image/islandnight.png
 bgImageStyle:
   background-attachment: fixed
 heroText: 芋茶園 - YuChaYuan
-tagline:
-  - 一個還不錯的Wynncraft公會
-  - 一個有點甲的Wynncraft公會
-  - 一個很歡樂的Wynncraft公會
+tagline: 一個還不錯的Wynncraft公會
 actions:
   - text: 公會介紹
-    icon: lightbulb
+    icon: /assets/image/dorolyucha.png
     link: ./demo/
     type: primary
 
   - text: Wynncraft攻略
     link: ./guide/
+    type: primary
 
 highlights:
   - header: 新功能
