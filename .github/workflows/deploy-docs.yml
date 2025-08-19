@@ -48,3 +48,4 @@ jobs:
           # 部署文档
           branch: ycy_page
           folder: src/.vuepress/dist
+          fqdn: yuchayuan.net
