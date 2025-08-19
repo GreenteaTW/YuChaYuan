@@ -9,6 +9,10 @@ bgImageStyle:
   background-attachment: fixed
 heroText: 芋茶園 - YuChaYuan
 tagline: 一個還不錯的Wynncraft公會
+titles:
+  - 天才少年侦探
+  - 小兰的青梅竹马
+  - 黑衣组织的最大对手
 actions:
   - text: 公會介紹
     icon: lightbulb
