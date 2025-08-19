@@ -1,14 +1,19 @@
 ---
 home: true
+portfolio: true
 icon: house
-title: 首頁
-heroImage: /assets/image/logo.png
+titles: 首頁
+avatar: /assets/image/logo.png
 bgImage: /assets/image/islandday.png
 bgImageDark: /assets/image/islandnight.png
 bgImageStyle:
   background-attachment: fixed
-heroText: 芋茶園 - YuChaYuan
-tagline: 一個還不錯的Wynncraft公會
+welcome: 
+name: 芋茶園 - YuChaYuan
+titles:
+  - 一個還不錯的Wynncraft公會
+  - 一個那酒客賣屁股的公會
+  - 一個有hen的公會
 actions:
   - text: 公會介紹
     icon: /assets/image/dorolyucha.png
