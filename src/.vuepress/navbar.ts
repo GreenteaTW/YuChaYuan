@@ -2,10 +2,9 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/portfolio",
   "/demo/",
   {
-    text: "指南",
+    text: "Wynncraft攻略",
     icon: "lightbulb",
     prefix: "/guide/",
     children: [

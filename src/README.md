@@ -17,7 +17,7 @@ actions:
     icon: signs-post
     type: primary
 
-  - text: Wynncraft指南
+  - text: Wynncraft攻略
     icon: lightbulb
     link: /guide/
     type: primary
