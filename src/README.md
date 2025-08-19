@@ -3,8 +3,8 @@ home: true
 icon: house
 title: 首頁
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
+bgImage: /assets/image/islandday.png
+bgImageDark: /assets/image/islandnight.png
 bgImageStyle:
   background-attachment: fixed
 heroText: 芋茶園 - YuChaYuan
