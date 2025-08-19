@@ -1,13 +1,13 @@
 ---
 home: true
 icon: house
-title: 项目主页
+title: 首頁
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 芋茶園 - YuChaYuan | 百科全書
+heroText: 芋茶園 - YuChaYuan
 tagline: 一個還不錯的Wynncraft公會
 actions:
   - text: 公會介紹

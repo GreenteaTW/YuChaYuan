@@ -5,7 +5,7 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/",
 
-  lang: "zh-CN",
+  lang: "zh-TW",
   title: "芋茶園 - YuChaYuan",
   description: "title",
 
