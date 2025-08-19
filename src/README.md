@@ -2,7 +2,7 @@
 home: true
 icon: house
 title: 首頁
-heroImage: /assets/image/logo.png
+heroImage: /assets/image/ycylogopng.png
 heroFullScreen: true
 bgImage: /assets/image/islandday.png
 bgImageDark: /assets/image/islandnight.png
