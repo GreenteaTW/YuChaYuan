@@ -3,9 +3,7 @@ home: true
 icon: house
 title: 首頁
 heroImage: /assets/image/yulogo.gif
-heroImageStyle:
-  width: 100px
-  height: 100px
+heroFullScreen: true
 bgImage: /assets/image/islandday.png
 bgImageDark: /assets/image/islandnight.png
 bgImageStyle:
@@ -22,6 +20,7 @@ actions:
   - text: Wynncraft指南
     icon: lightbulb
     link: /guide/
+    type: primary
 
 copyright: false
 footer: 文章內容版權所有 © 2025 YuChaYuan | 芋茶園 - 保留所有權利<br>未經許可不得轉載或使用本站文章內容<br>MIT Licensed | Copyright © 2019-present Mr.Hope
