@@ -3,17 +3,28 @@ home: true
 portfolio: true
 icon: house
 title: 首頁
-avatar: /assets/image/logo.png
+avatar: /assets/image/yulogo.gif
 bgImage: /assets/image/islandday.png
 bgImageDark: /assets/image/islandnight.png
 bgImageStyle:
   background-attachment: fixed
-welcome: test
+welcome: Wynncraft中文公會
 name: 芋茶園 - YuChaYuan
 titles:
-  - 一個還不錯的Wynncraft公會
-  - 一個那酒客賣屁股的公會
+  - 一個Owner挺Gay的公會
+  - 一個事那酒客賣屁股的公會
   - 一個有hen的公會
+  - 一個要咖啡當Owner的公會
+  - 一個有天空煮貓的公會
+  - 一個有鮭魚的公會
+  - 一個有傻逼雷納德的公會
+  - 一個是HEYAZero不是HeyZeer的公會
+  - 一個幹了1000小時不知道幹嘛的公會
+  - 一個jimmy炸魚的公會
+  - 一個阿謀宅呀的公會
+  - 一個Miku Miku的公會
+  - 一個EGay唱巴尼嘎的公會
+  - 一個阿諾愛男娘的公會
 actions:
   - text: 公會介紹
     icon: /assets/image/dorolyucha.png
