@@ -2,7 +2,7 @@
 home: true
 icon: house
 title: 首頁
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: /assets/image/logo.png
 bgImage: /assets/image/islandday.png
 bgImageDark: /assets/image/islandnight.png
 bgImageStyle:
