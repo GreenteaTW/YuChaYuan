@@ -24,8 +24,8 @@ export default navbar([
     ],
   },
   {
-    text: "V2 文档",
+    text: "我們的Discord",
     icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
+    link: "https://discord.gg/JmzqS9Sw3v",
   },
 ]);
