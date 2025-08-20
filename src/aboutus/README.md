@@ -21,11 +21,21 @@ actions:
     icon: lightbulb
     link: /guide/
     type: primary
+
+## 測試一下
+
+meow meow
+
 features:
-  - title: test
-    icon: https://api.mineatar.io/face/01ca79a1-7805-4458-b52d-cfb7f809a808.png
-    details: 新增文字对齐、上下角标、脚注、标记、任务列表、数学公式、流程图、图表与幻灯片支持
+  - title: Owner - 綠茶
+    icon: /assets/playerhead/green_teatw.png
+    details: 我不是男娘
     link: https://wynncraft.com/stats/player/Green_teaTW
+  - title: Leader Chief - HenSuck
+    icon: /assets/playerhead/changjenchief.png
+    details: 暫無
+    link: https://wynncraft.com/stats/player/ChangJenChieh
+
 
 copyright: false
 footer: 文章內容版權所有 © 2025 YuChaYuan | 芋茶園 - 保留所有權利<br>未經許可不得轉載或使用本站文章內容<br>MIT Licensed | Copyright © 2019-present Mr.Hope
