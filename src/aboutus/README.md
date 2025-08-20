@@ -1,7 +1,7 @@
 ---
 home: true
 icon: house
-title: 首頁
+title: 公會介紹
 heroImage: /assets/image/ycylogopng.png
 heroFullScreen: true
 bgImage: /assets/image/islandday.png
@@ -13,7 +13,7 @@ heroStyle: "background-color: #000"
 tagline: 一個中文Wynncraft公會
 actions:
   - text: 公會介紹
-    link: /aboutus/
+    link: /test/
     icon: signs-post
     type: primary
 
