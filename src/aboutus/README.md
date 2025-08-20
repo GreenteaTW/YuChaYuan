@@ -23,14 +23,62 @@ actions:
     type: primary
 
 features:
-  - title: Owner - 綠茶
+  - title: 茶 | ★★★★★ - 綠茶
     icon: /assets/playerhead/green_teatw.png
     details: 我不是男娘
     link: https://wynncraft.com/stats/player/Green_teaTW
-  - title: Leader Chief - HenSuck
+  - title: 茶會總管 | ★★★★☆ - HenSuck
     icon: /assets/playerhead/changjenchief.png
     details: 暫無
     link: https://wynncraft.com/stats/player/ChangJenChieh
+  - title: 茶會總管 | ★★★★☆ - eric18960
+    icon: /assets/playerhead/eric18960.png
+    details: 暫無
+    link: https://wynncraft.com/stats/player/eric18960
+  - title: 茶會總管 | ★★★★☆ - HEYAZero
+    icon: /assets/playerhead/heyazero.png
+    details: 暫無
+    link: https://wynncraft.com/stats/player/HEYAZero
+  - title: 茶會總管 | ★★★★☆ - NOT_Joker
+    icon: /assets/playerhead/not_joker.png
+    details: 甲
+    link: https://wynncraft.com/stats/player/NOT_Joker
+  - title: 茶會 | ★★★★ - 靈歪 0y
+    icon: /assets/playerhead/_miku39_.png
+    details: 暫無
+    link: https://wynncraft.com/stats/player/_Miku39_
+  - title: 茶會 | ★★★★ - Ken
+    icon: /assets/playerhead/_reynold.png
+    details: 暫無
+    link: https://wynncraft.com/stats/player/_Reynold
+  - title: 茶會 | ★★★★ - 餅乾
+    icon: /assets/playerhead/acookiefox.png
+    details: 暫無
+    link: https://wynncraft.com/stats/player/aCookieFox
+  - title: 茶會 | ★★★★ - 鮭魚
+    icon: /assets/playerhead/mrmud8033112.png
+    details: 暫無
+    link: https://wynncraft.com/stats/player/Mrmud8033112
+  - title: 首席幹部 | ★★★☆ - EG
+    icon: /assets/playerhead/eliteeg.png
+    details: EGay
+    link: https://wynncraft.com/stats/player/EliteEG
+  - title: 首席幹部 | ★★★☆ - 阿諾
+    icon: /assets/playerhead/log_soren.png
+    details: 暫無
+    link: https://wynncraft.com/stats/player/LoG_Soren
+  - title: 首席幹部 | ★★★☆ - Jay
+    icon: /assets/playerhead/brokeboys_.png
+    details: 暫無
+    link: https://wynncraft.com/stats/player/Brokeboys_
+  - title: 首席幹部 | ★★★☆ - 阿謀
+    icon: /assets/playerhead/zking_tw.png
+    details: 暫無
+    link: https://wynncraft.com/stats/player/Zking_Tw
+  - title: 首席幹部 | ★★★☆ - fishing
+    icon: /assets/playerhead/0110jimmy.png
+    details: 暫無
+    link: https://wynncraft.com/stats/player/0110jimmy
 
 
 copyright: false
