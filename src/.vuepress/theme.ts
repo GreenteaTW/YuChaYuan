@@ -7,7 +7,7 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "Mr.Hope",
+    name: "LyuChaCha",
     url: "https://mister-hope.com",
   },
 
@@ -24,7 +24,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: "默認頁腳",
   displayFooter: true,
 
   // 加密配置
@@ -39,7 +39,7 @@ export default hopeTheme({
 
   // 多语言配置
   metaLocales: {
-    editLink: "在 GitHub 上编辑此页",
+    editLink: "在 GitHub 上編輯此頁面",
   },
 
   // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
