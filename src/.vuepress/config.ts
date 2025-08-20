@@ -1,5 +1,5 @@
 import { defineUserConfig } from "vuepress";
-
+import { searchPlugin } from "@vuepress/plugin-search";
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -10,6 +10,14 @@ export default defineUserConfig({
   description: "title",
 
   theme,
+
+  plugins: [
+    searchPlugin({
+      // 排除首页
+      isSearchable: (page) => page.path !== '/',
+    }),
+  ],
+
 
   // 和 PWA 一起启用
   // shouldPrefetch: false,
