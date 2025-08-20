@@ -22,10 +22,6 @@ actions:
     link: /guide/
     type: primary
 
-## 測試一下
-
-meow meow
-
 features:
   - title: Owner - 綠茶
     icon: /assets/playerhead/green_teatw.png
