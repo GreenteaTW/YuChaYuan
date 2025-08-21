@@ -1,6 +1,6 @@
 ---
 home: true
-icon: home
+icon: house
 title: 首頁
 heroImage: /assets/image/ycylogopng.png
 heroFullScreen: true
@@ -13,8 +13,8 @@ heroStyle: "background-color: #000"
 tagline: 還不錯的Wynncraft公會
 actions:
   - text: 公會介紹
-    link: /test/
-    icon: home
+    link: /demo/
+    icon: house
     type: primary
 
   - text: Wynncraft攻略
