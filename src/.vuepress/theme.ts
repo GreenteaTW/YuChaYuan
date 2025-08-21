@@ -1,4 +1,5 @@
 import { hopeTheme } from "vuepress-theme-hope";
+import { defineUserConfig } from "vuepress";
 
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
@@ -24,7 +25,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默認頁腳",
+  footer: "文章內容版權所有 © 2025 YuChaYuan | 芋茶園 - 保留所有權利<br>未經許可不得轉載或使用本站文章內容",
   displayFooter: true,
 
   // 加密配置
