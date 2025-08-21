@@ -1,6 +1,6 @@
 ---
 home: true
-icon: home
+icon: ::home-circle::
 title: 公會介紹
 heroImage: /assets/image/ycylogopng.png
 heroFullScreen: true
