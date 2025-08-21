@@ -14,7 +14,7 @@ tagline: 還不錯的Wynncraft公會
 actions:
   - text: 公會介紹
     link: /test/
-    icon: ::home-circle::
+    icon: home-circle
     type: primary
 
   - text: Wynncraft攻略
