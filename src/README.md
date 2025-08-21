@@ -1,7 +1,7 @@
 ---
 home: true
 icon: ::home-circle::
-title: 公會介紹
+title: 首頁
 heroImage: /assets/image/ycylogopng.png
 heroFullScreen: true
 bgImage: /assets/image/islandday.png
@@ -10,11 +10,11 @@ bgImageStyle:
   background-attachment: fixed
 heroText: 芋茶園 - YuChaYuan
 heroStyle: "background-color: #000"
-tagline: 公會介紹
+tagline: 還不錯的Wynncraft公會
 actions:
   - text: 公會介紹
     link: /test/
-    icon: signs-post
+    icon: ::home-circle::
     type: primary
 
   - text: Wynncraft攻略
