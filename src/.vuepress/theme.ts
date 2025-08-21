@@ -9,7 +9,7 @@ export default hopeTheme({
 
   author: {
     name: "LyuChaCha",
-    url: "https://mister-hope.com",
+    url: "https://youtu.be/dQw4w9WgXcQ?si=vRWYkyUwbuQhnZIc",
   },
 
   logo: "/assets/image/ycylogopng.png",
@@ -25,7 +25,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "文章內容版權所有 © 2025 YuChaYuan | 芋茶園 - 保留所有權利<br>未經許可不得轉載或使用本站文章內容",
+  footer: "未經許可不得轉載或使用本站文章內容",
   displayFooter: true,
 
   // 加密配置

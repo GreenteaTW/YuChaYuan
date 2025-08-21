@@ -11,12 +11,6 @@ export default defineUserConfig({
 
   theme,
 
-  plugins: [
-    searchPlugin({
-      // 排除首页
-      isSearchable: (page) => page.path !== '/',
-    }),
-  ],
   head: [
     // ...
 
@@ -35,6 +29,13 @@ export default defineUserConfig({
     ],
   ],
 
+
+  plugins: [
+    searchPlugin({
+      // 排除首页
+      isSearchable: (page) => page.path !== '/',
+    }),
+  ],
   // 和 PWA 一起启用
   // shouldPrefetch: false,
 });

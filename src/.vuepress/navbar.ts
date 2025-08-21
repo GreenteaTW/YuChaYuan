@@ -2,7 +2,6 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/aboutus/",
   "/demo/",
   {
     text: "Wynncraft攻略",
@@ -25,7 +24,7 @@ export default navbar([
   },
   {
     text: "我們的Discord",
-    icon: "book",
+    icon: "/assets/image/discord.png",
     link: "https://discord.gg/JmzqS9Sw3v",
   },
 ]);
