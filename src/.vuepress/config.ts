@@ -1,5 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import { searchPlugin } from "@vuepress/plugin-search";
+import { iconPlugin } from '@vuepress/plugin-icon';
 import theme from "./theme.js";
 
 export default defineUserConfig({
