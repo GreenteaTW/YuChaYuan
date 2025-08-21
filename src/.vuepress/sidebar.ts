@@ -11,6 +11,13 @@ export default sidebar({
       children: "structure",
     },
     {
+      text: "Wynncraft攻略",
+      icon: "tree",
+      prefix: "wynncraft/",
+      link: "wynncraft/",
+      children: "structure",
+    },
+    {
       text: "文档",
       icon: "book",
       prefix: "guide/",
