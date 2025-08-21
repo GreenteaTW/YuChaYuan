@@ -1,6 +1,6 @@
 ---
 home: true
-icon: ::home-circle::
+icon: home
 title: 首頁
 heroImage: /assets/image/ycylogopng.png
 heroFullScreen: true
@@ -14,7 +14,7 @@ tagline: 還不錯的Wynncraft公會
 actions:
   - text: 公會介紹
     link: /test/
-    icon: home-circle
+    icon: home
     type: primary
 
   - text: Wynncraft攻略
